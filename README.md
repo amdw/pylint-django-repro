@@ -1,6 +1,6 @@
 # pylint-django-repro
 
-The purpose of this repository is to reproduce a bug with pylint-django.
+The purpose of this repository is to reproduce [a bug with pylint-django](https://github.com/PyCQA/pylint-django/issues/343).
 
 Pre-requisites: Python 3 installation with pipenv.
 
